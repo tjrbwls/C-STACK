@@ -1,0 +1,10 @@
+static void Main(string[] args)
+        {
+            int[] arr = {10, 20, 30}; // int형 변수 배열 arr에 10, 20, 30을 저장을 선언
+            Stack<int> stack = new Stack<int>(arr);  // int형 변수 배열 arr을 넣은 int형 STACK선언
+
+            while (stack.Count != 0) // stack에 들어간 변수의 갯수가 0이 아닐때
+            {
+                Console.WriteLine("value : " + stack.Pop()); // stack에서 변수를 하나씩 꺼내화면에 출력한다.
+            }
+        }
