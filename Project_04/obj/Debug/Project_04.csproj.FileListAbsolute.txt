@@ -1,0 +1,8 @@
+C:\Users\서규진\OneDrive\바탕 화면\C#\Project_04\bin\Debug\Project_04.exe.config
+C:\Users\서규진\OneDrive\바탕 화면\C#\Project_04\bin\Debug\Project_04.exe
+C:\Users\서규진\OneDrive\바탕 화면\C#\Project_04\bin\Debug\Project_04.pdb
+C:\Users\서규진\OneDrive\바탕 화면\C#\Project_04\obj\Debug\Project_04.csproj.AssemblyReference.cache
+C:\Users\서규진\OneDrive\바탕 화면\C#\Project_04\obj\Debug\Project_04.csproj.SuggestedBindingRedirects.cache
+C:\Users\서규진\OneDrive\바탕 화면\C#\Project_04\obj\Debug\Project_04.csproj.CoreCompileInputs.cache
+C:\Users\서규진\OneDrive\바탕 화면\C#\Project_04\obj\Debug\Project_04.exe
+C:\Users\서규진\OneDrive\바탕 화면\C#\Project_04\obj\Debug\Project_04.pdb
